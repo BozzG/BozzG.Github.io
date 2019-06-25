@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 深圳GOPS会议参会笔记
-date: 2019-04-14
-tags: 随笔
+title: [翻译]从0实现一个时序数据库
+date: 2019-06-25
+tags: 翻译
 ---
 
 我从事监控方面的工作。尤其是专注在[Prometheus](https://prometheus.io/)，一款内置了自己定制的时间序列数据库的监控系统，以及它和[Kubernetes](https://kubernetes.io/)的集成工作。
