@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [翻译]从0实现一个时序数据库
+title: 从0实现一个时序数据库
 date: 2019-06-25
 tags: 翻译
 ---
